@@ -38,13 +38,13 @@
               </table>
               <!-- FIN DE EVENTOS --> 
 
-              <h2 class="section-heading mb-5">
-                <span class="section-heading-upper">*Sábados y Domingos por la mañana cerrado</span>
-              </h2>
+       
+                <p><i>¡Si quieres hacer tu evento en La Qarmita contáctanos!</i></p>
+            
 
               <p class="address mb-5">
                 <em>
-                  <strong>Calle Aguila, 20</strong>
+                  <strong>Calle Águila, 20</strong>
                   <br>
                   Granada, España
                 </em>

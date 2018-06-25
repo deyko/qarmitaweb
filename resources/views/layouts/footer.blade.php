@@ -94,20 +94,19 @@
 <footer class="footer text-faded text-center py-5">
     <div class="container">
 		<div class="zerogrid wrapper">
-			Copyright @ QARMITA - Diseñado por <a>Daniel &amp; Julio </a>
-			<ul class="quick-link">
+			
+					<br>	<center><img src="img/lol20.png" style="width:150px; height:120px;"></br>
+				
+						<center><p>	Copyright @ QARMITA <br> <small> by <a>Daniel &amp; Julio </small></a>
+			<!--<ul class="quick-link" style="center">
                 <a href="#">Política de privacidad</a>
                 <br>
 				<a href="#">Términos de uso</a>
-			</ul>
+			</ul>-->
+		</center>
 		</div>
+		
 
-		<div class="social">
-			<a href="#" class="social__button mail"><i class="fa fa-envelope-o"></i></a>
-			<a href="#" class="social__button facebook"><i class="fa fa-facebook"></i></a>
-			<a href="#" class="social__button linkedin"><i class="fa fa-linkedin"></i></a>
-			<a href="#" class="social__button instagram"><i class="fa fa-instagram"></i></a>
-		</div>
 	</div>
 </footer>
 

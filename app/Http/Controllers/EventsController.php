@@ -14,7 +14,7 @@ class EventsController extends Controller
         +-----------------*/
         $client = new Client([
             // Base URI is used with relative requests
-            'base_uri' => 'http://localhost:8888/ApiQarmita/public/api/eventos',
+            'base_uri' => 'http://localhost:8888/Slim2/index.php/eventos',
             // Tiempo de espera para obtener una respuesta.
             'timeout'  => 2.0,
         ]);

@@ -10,16 +10,16 @@
     <section class="page-section clearfix">
       <div class="container">
         <div class="intro">
-          <img class="intro-img img-fluid mb-3 mb-lg-0 rounded" src="img/IMGP4502.jpg" alt="Imagen interior de la Qarmita">
+          <img class="intro-img img-fluid mb-3 mb-lg-0 rounded" src="img/IMGP4511.jpg" alt="Imagen interior de la Qarmita">
           <div class="intro-text left-0 text-center bg-faded p-5 rounded">
             <h2 class="section-heading mb-4">
-              <span class="section-heading-upper">Fresh Coffee</span>
-              <span class="section-heading-lower">Worth Drinking</span>
+              <span class="section-heading-upper">LA QARMITA</span>
+              <span class="section-heading-lower">Libros y café.</span>
             </h2>
-            <p class="mb-3">Every cup of our quality artisan coffee starts with locally sourced, hand picked ingredients. Once you try it, our coffee will be a blissful addition to your everyday morning routine - we guarantee it!
+            <p class="mb-3">Nuestro objetivo es que te sientas como en casa.
             </p>
             <div class="intro-button mx-auto">
-              <a class="btn btn-primary btn-xl" href="store">¡Visítanos hoy!</a>
+              <a class="btn btn-primary btn-xl" href="store">Visítanos hoy</a>
             </div>
           </div>
         </div>
@@ -32,10 +32,11 @@
           <div class="col-xl-9 mx-auto">
             <div class="cta-inner text-center rounded">
               <h2 class="section-heading mb-4">
-                <span class="section-heading-upper">Our Promise</span>
-                <span class="section-heading-lower">To You</span>
+                <span class="section-heading-upper">La Qarmita</span>
+                <span class="section-heading-lower">¿Qué encontrarás?</span>
               </h2>
-              <p class="mb-0">When you walk into our shop to start your day, we are dedicated to providing you with friendly service, a welcoming atmosphere, and above all else, excellent products made with the highest quality ingredients. If you are not satisfied, please let us know and we will do whatever we can to make things right!</p>
+              <p class="mb-0">La Qarmita es un espacio pensado para darle rienda suelta a nuestra pasión por la cultura, los libros y el buen café. Por eso hemos creado un ambiente cálido y acogedor para que las prisas se queden en la puerta y puedas relajarte y disfrutar de todo lo que te proponemos.
+                </p>
             </div>
           </div>
         </div>
